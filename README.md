@@ -11,6 +11,6 @@ An API key from Oanda is also needed so you'll have to create an account in orde
 
 Run the code as python app.py in your terminal and you're all set!
 
-### Credit 
+### And the credit for helping me build this wonderful project goes to... 
 - 1: Oanda API docs.
 - 2: Bgwrites.
